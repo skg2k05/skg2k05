@@ -57,4 +57,13 @@ Passionate about building scalable systems, diving into Generative AI, and solvi
   <a href="https://leetcode.com/skg_2k05/">  
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />  
   </a>  
+<a href="mailto:sushilkumargauda@gmail.com">  
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />  
+  </a>  
+  <a href="https://www.instagram.com/sushil_2k05">  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
+  </a> 
+<a href="https://discord.com/users/ask.0_0">  
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />  
+  </a>  
 </p>  
