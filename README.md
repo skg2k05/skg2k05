@@ -23,7 +23,7 @@ Passionate about building scalable systems, diving into Generative AI, and solvi
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
 </p>  
 
-### **Currently Exploring**  
+### **Currently Exploring Tech Stack**  
 <p align="left">  
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
@@ -32,7 +32,7 @@ Passionate about building scalable systems, diving into Generative AI, and solvi
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />  
 </p>  
 
-### **AI & ML Toolkit**  
+### **Currently Exploring AI & ML Toolkit**  
 <p align="left">  
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
