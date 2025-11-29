@@ -41,6 +41,17 @@ Passionate about building scalable systems, diving into Generative AI, and solvi
 </p>  
 
 ---
+<div align="center">
+
+### 🧩 Coding Platforms
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/skg_2k05/)
+
+### 📈 LeetCode Stats
+<img src="https://leetcard.jacoblin.cool/skg_2k05?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+
+</div>
+
+---
 
 ## 🔥 **Active Focus Areas**  
 - **LeetCode** ([Profile](https://leetcode.com/skg_2k05/)) - Sharpening DSA & problem-solving  
