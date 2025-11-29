@@ -43,10 +43,7 @@ Passionate about building scalable systems, diving into Generative AI, and solvi
 ---
 <div align="center">
 
-### 🧩 Coding Platforms
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/skg_2k05/)
-
-### 📈 LeetCode Stats
+### 🪬 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/skg_2k05?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 
 </div>
@@ -66,7 +63,7 @@ Passionate about building scalable systems, diving into Generative AI, and solvi
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>   
   <a href="https://leetcode.com/skg_2k05/">  
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />  
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />  
   </a>  
 <a href="mailto:sushilkumargauda@gmail.com">  
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />  
