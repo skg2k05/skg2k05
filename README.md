@@ -49,6 +49,8 @@ Passionate about building scalable systems, diving into Generative AI, and solvi
 </div>
 
 ---
+![Snake animation](https://raw.githubusercontent.com/skg2k05/skg2k05/output/github-contribution-grid-snake-dark.svg)
+---
 
 ## 🔥 **Active Focus Areas**  
 - **LeetCode** ([Profile](https://leetcode.com/skg_2k05/)) - Sharpening DSA & problem-solving  
