@@ -50,6 +50,15 @@ Passionate about building scalable systems, diving into Generative AI, and solvi
 
 ---
 
+<div align="center">
+  
+  ### 🪬 GitHub Stats
+  ![snake gif](https://github.com/skg2k05/skg2k05/blob/output/github-snake-dark.svg)
+  
+</div>
+
+---
+
 ## 🔥 **Active Focus Areas**  
 - **LeetCode** ([Profile](https://leetcode.com/skg_2k05/)) - Sharpening DSA & problem-solving  
 - **Backend Development** (Node.js, Flask, API design)  
