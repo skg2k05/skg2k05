@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Sushil Kumar Gauda 
 
 👾 **Backend Developer | GenAI Explorer | LeetCode Grinder**  
-🎓 **CIT Bangalore** 
+🎓 **CIT Bangalore**  
 
 Passionate about building scalable systems, diving into Generative AI, and solving problems efficiently.  
 
